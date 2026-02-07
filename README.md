@@ -16,33 +16,33 @@ This repository focuses on writing clean, readable, and efficient JavaScript cod
 
 The goal of this repository is to:
 
-Build a strong foundation in JavaScript fundamentals
+1.Build a strong foundation in JavaScript fundamentals
 
-Practice problem-solving and algorithmic thinking
+2.Practice problem-solving and algorithmic thinking
 
-Understand how common JavaScript utilities work internally
+3.Understand how common JavaScript utilities work internally
 
-Maintain a consistent learning and revision resource
+4.Maintain a consistent learning and revision resource
 
-Showcase hands-on learning through well-organized code commits
+5.Showcase hands-on learning through well-organized code commits
 
 🧠 Topics Covered
 
-This repository includes implementations and practice related to:
+1.This repository includes implementations and practice related to:
 
-JavaScript Functions & Closures
+2.JavaScript Functions & Closures
 
-Array Methods (map, reduce, custom utilities)
+3.Array Methods (map, reduce, custom utilities)
 
-String manipulation
+4.String manipulation
 
-Memoization and optimization techniques
+5.Memoization and optimization techniques
 
-Basic algorithmic problems
+6.Basic algorithmic problems
 
-Utility function implementations
+7.Utility function implementations
 
-ES6+ JavaScript features
+8.ES6+ JavaScript features
 
 📂 Repository Structure
 
@@ -74,19 +74,11 @@ Environment: Node.js (for local execution, optional)
 
 ▶️ How to Run the Code
 
-Clone the repository:
+Clone the repository: git clone https://github.com/madhura-23/js-learning.git
 
-git clone https://github.com/madhura-23/js-learning.git
+Navigate to the project folder: cd js-learning
 
-
-Navigate to the project folder:
-
-cd js-learning
-
-
-Run any file using Node.js:
-
-node filename.js
+Run any file using Node.js: node filename.js
 
 📈 Learning Approach
 
@@ -117,6 +109,5 @@ Feel free to open an issue or submit a pull request if you spot an improvement.
 
 👩‍💻 Author
 
-Madhura Bhat
-AI Engineering Student | JavaScript & AI Enthusiast
+Madhura Bhatt
 GitHub: @madhura-23
