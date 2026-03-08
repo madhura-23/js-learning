@@ -1,0 +1,18 @@
+
+var findDifferentBinaryString = function(nums) {
+    let n = nums.length;
+    let st = new Set();
+    
+    for(let binary of nums) {
+        st.add(parseInt(binary, 2));
+    }
+    
+    for(let i = 0; i < (1 << n); i++) {
+        if(!st.has(i)) {
+            let binary = i.toString(2);
+            return binary.padStart(n, '0');
+        }
+    }
+    
+    return "";
+};
